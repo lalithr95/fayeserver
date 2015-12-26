@@ -6,5 +6,5 @@
 
 production:
   server: "https://private-faye.herokuapp.com/faye"
-  secret_token: "Lalith"
+  secret_token: "8528d186977808f6058c2679d554d4fa773e87ba27882c9ccb4980735e0edbe1"
   signature_expiration: 86400 # one day
